@@ -27,11 +27,12 @@ def load_vengo_screens(vengo_file, vengo_screens):
                 width = row.get('screen_width', '').strip()
                 screenName = row.get('ad_unit_name', '').strip()
 
-                #Check is id actually filled
+                #Check if id actually filled
                 if screenId:
                     screen = Screen(screen_id = screenId, screen_height = height, screen_width = width, screen_name = screenName)
                     vengo_screens[screenId] = screen
     
+    #Basic error handing
     except FileNotFoundError as e:
         print(f"Error: Could not find file - {e}")
         sys.exit(1)
@@ -76,6 +77,7 @@ def reconcile_screens(venuex, vengo):
     #In venuex but not vengo
     Add_to_Vengo = venuex_ids - vengo_ids
 
+    #Use this for differing resolutions - All screens is just all the screens in both venuex and vengo
     resolution_Changes = []
     all_screens = venuex_ids & vengo_ids
 
@@ -90,6 +92,7 @@ def reconcile_screens(venuex, vengo):
             resolution_Changes.append(id)
 
     
+    # Output handling
     if Add_to_Vengo:
         print("\nScreens that need to be added to Vengo\n")
         for screen_id in sorted(Add_to_Vengo):
@@ -117,6 +120,7 @@ def reconcile_screens(venuex, vengo):
 
 
 def main():
+    #Use this for command line argument handling
     if len(sys.argv) != 3:
         print("Wrong Arguments")
         sys.exit(1)
@@ -124,6 +128,7 @@ def main():
     venuex_file = sys.argv[1]
     vengo_file = sys.argv[2]
 
+    #Dictionaries using the screen id
     venuex_screens: Dict[str, Screen] = {}
     vengo_screens: Dict[str, Screen] = {}
 
