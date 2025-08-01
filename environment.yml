@@ -1,4 +1,4 @@
-name: Rooster_Reconciliation
+name: Reconciliation_Tool
 channels:
   - conda-forge
   - defaults
