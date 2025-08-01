@@ -1,0 +1,258 @@
+ad_unit_id,ad_unit_name,screen_width,screen_height,orientation,venue_id,venue_name
+a54b4c41-2663-4d0f-988c-0cde47511ed5,Taunton Left Portrait 3,1080,1920,Portrait,83760cf4-073f-41cc-b25f-851258472378,Aleixo Skating Arena
+5e9c041d-c987-402a-812e-3e870fc5b159,Taunton Main,1920,1080,Landscape,83760cf4-073f-41cc-b25f-851258472378,Aleixo Skating Arena
+0627aab2-9267-4e58-b297-1c4a9c8448c5,Taunton Rental Screen 2,1080,1920,Portrait,83760cf4-073f-41cc-b25f-851258472378,Aleixo Skating Arena
+2c9ed4bb-f62c-41f8-b6a3-752fd407cb3b,Taunton Right Portrait 3,1080,1920,PortraitLeft,83760cf4-073f-41cc-b25f-851258472378,Aleixo Skating Arena
+7aa4f4e0-5fd1-4470-931d-5249c45c0487,Taunton Snack Bar Left 2,1920,1080,Landscape,83760cf4-073f-41cc-b25f-851258472378,Aleixo Skating Arena
+7bddbc6a-39c7-4cf2-8d93-1bd444bdb77f,Taunton Snack Bar Right,1920,1080,Landscape,83760cf4-073f-41cc-b25f-851258472378,Aleixo Skating Arena
+91311aaf-2d30-49bd-bc90-e7359ff61caa,Allied Veterans - New 1,1920,1080,Landscape,dfa73e5a-7de8-4735-ad71-9047e670176d,Allied Veterans Skating Rink
+0ceb8fcd-5d27-4d0f-879f-547303bb4538,Allied Veterans - New 2,1920,1080,Landscape,dfa73e5a-7de8-4735-ad71-9047e670176d,Allied Veterans Skating Rink
+49284504-a086-412c-ac2d-67526c29b37a,Allied Veterans Main Lobby 2,1920,1080,Landscape,dfa73e5a-7de8-4735-ad71-9047e670176d,Allied Veterans Skating Rink
+7dd5ae0f-2c17-4515-ab12-d5fcd64777cb,Allied Veterans Rental 2,1080,1920,PortraitLeft,dfa73e5a-7de8-4735-ad71-9047e670176d,Allied Veterans Skating Rink
+79cfb6f7-7dbe-4936-8ae3-15c5b5ed9b40,Allied Veterans Rink Office,1920,1080,Landscape,dfa73e5a-7de8-4735-ad71-9047e670176d,Allied Veterans Skating Rink
+68b37325-2295-4021-9768-eded4ab9fabb,Allied Veterans Snack Bar Left,1920,1080,Landscape,dfa73e5a-7de8-4735-ad71-9047e670176d,Allied Veterans Skating Rink
+836538b4-a517-4401-87bd-8ed3cadd2fe0,Plymouth Main TV,1920,1080,Landscape,96157c35-7e41-46f6-8ffd-de3d523e903b,Armstrong Arena
+b82af595-dc87-4a61-b072-c43fad6564ab,Plymouth Portrait Left,1080,1920,Portrait,96157c35-7e41-46f6-8ffd-de3d523e903b,Armstrong Arena
+0c1f48ed-b9f5-44d6-85eb-93e9b9072545,Plymouth Portrait Right,1080,1920,Portrait,96157c35-7e41-46f6-8ffd-de3d523e903b,Armstrong Arena
+0d381953-5056-4725-9aa7-b925ed379d63,Plymouth Rental,1080,1920,PortraitLeft,96157c35-7e41-46f6-8ffd-de3d523e903b,Armstrong Arena
+48beba9b-917f-49d5-87ca-8bba50aeec91,Plymouth Snack Bar,1080,1920,PortraitLeft,96157c35-7e41-46f6-8ffd-de3d523e903b,Armstrong Arena
+c38fcd59-6192-4429-9f55-2b06b718d8a5,Brockton Main,1920,1080,Landscape,26ea25da-ad00-4a59-9097-81d26e3cfe9f,Asiaf Arena
+3bbb072d-195f-4ede-809c-19d9cce85e3c,Brockton Portrait Left,1080,1920,Portrait,26ea25da-ad00-4a59-9097-81d26e3cfe9f,Asiaf Arena
+32deeb67-ef22-4498-8074-9dce35d2dd1f,Brockton Portrait Right,1080,1920,Portrait,26ea25da-ad00-4a59-9097-81d26e3cfe9f,Asiaf Arena
+548a9104-7d71-483e-b27a-748208ede4d3,Brockton Rental,1080,1920,PortraitLeft,26ea25da-ad00-4a59-9097-81d26e3cfe9f,Asiaf Arena
+b4b55290-a888-4716-b9e3-003fb73b2374,Brockton Snack Bar Left,1920,1080,Landscape,26ea25da-ad00-4a59-9097-81d26e3cfe9f,Asiaf Arena
+6247d618-d49f-40b8-bfac-2724e5d7f3ff,Brockton Snack Bar Right,1920,1080,Landscape,26ea25da-ad00-4a59-9097-81d26e3cfe9f,Asiaf Arena
+e1682c7b-39a4-4b55-968a-05df041b14fd,Front Desk 3,1080,1920,PortraitLeft,92a3f5bc-c76b-4a5a-9097-31fcab87e521,Atlantis Sports Club & Spa (Hyannis)
+944ec55f-0ca5-4ab4-8915-b86a71bbe61c,Lounge Wall 3,1080,1920,Portrait,92a3f5bc-c76b-4a5a-9097-31fcab87e521,Atlantis Sports Club & Spa (Hyannis)
+c19bdba4-e697-424f-8941-7ed3d9d19267,Boch - Left,1920,1080,Landscape,52b56d0a-ad29-4398-9107-27bf927f1cb1,Boch Ice Center
+f86c119d-6cfc-4bf6-beec-440df159bba2,Boch - Right,1920,1080,Landscape,52b56d0a-ad29-4398-9107-27bf927f1cb1,Boch Ice Center
+bbb10c4c-7684-4865-bd18-5b47ed167c8d,BSI 2nd Floor Lobby,1920,1080,Landscape,b24839c1-d52b-45e7-a3fd-8708992abf9e,Boston Sports Institute
+864c3d96-6423-4541-99c5-719222593490,BSI Pool (P),1080,1920,Portrait,b24839c1-d52b-45e7-a3fd-8708992abf9e,Boston Sports Institute
+f367f314-2577-4391-8b88-71c23541e9f9,BSI Rink Portrait,1080,1920,PortraitLeft,b24839c1-d52b-45e7-a3fd-8708992abf9e,Boston Sports Institute
+a9f5b61d-0bd8-44ba-8749-60cc3be1ea8b,BSI Triple Screen,1080,1920,Portrait,b24839c1-d52b-45e7-a3fd-8708992abf9e,Boston Sports Institute
+32ddb4b7-8afa-4234-9d96-8b36bc2177a0,BIA - Front Lobby (Rink),1920,1080,Landscape,5d56960f-e7dc-4c46-9335-ca42774a5bec,Bridgewater Ice Arena
+e558331a-4f5e-4fd9-9fe6-ea258d114ce4,BIA Lobby (Shop),1920,1080,Landscape,5d56960f-e7dc-4c46-9335-ca42774a5bec,Bridgewater Ice Arena
+d52d7d69-0188-4600-8c15-b6a7d40ecbf5,BIA Lobby Wall (Office),1920,1080,Landscape,5d56960f-e7dc-4c46-9335-ca42774a5bec,Bridgewater Ice Arena
+d118ba32-5e50-4489-b3f2-d7771398078b,Dome Lobby,1920,1080,Landscape,1ac57f61-5695-4385-9008-4fff7acd6598,Bridgewater Sports Complex
+d442b0f3-d893-4c07-8cf4-06b3d71b1f3b,Dome Upstairs,1920,1080,Landscape,1ac57f61-5695-4385-9008-4fff7acd6598,Bridgewater Sports Complex
+fe14553b-2478-45c5-b199-4765dee40474,Worcester - Rental,1080,1920,Portrait,aa121341-4f90-4bf8-954a-0c1c99960c33,Buffone Skating Arena
+3afcd9be-f80a-4020-995a-1ba140b38231,Worcester Main TV 2,1920,1080,Landscape,aa121341-4f90-4bf8-954a-0c1c99960c33,Buffone Skating Arena
+97e40b15-8302-47d5-9526-c75b90f00150,Worcester Portrait Left,1080,1920,Portrait,aa121341-4f90-4bf8-954a-0c1c99960c33,Buffone Skating Arena
+5922ff94-6811-47e6-804d-0acc71d0433d,Worcester Portrait Right 2,1080,1920,Portrait,aa121341-4f90-4bf8-954a-0c1c99960c33,Buffone Skating Arena
+b5083996-c723-49fa-9d7f-10a65eaa4425,Worcester Snack Bar Left,1920,1080,Landscape,aa121341-4f90-4bf8-954a-0c1c99960c33,Buffone Skating Arena
+bbea5df1-7401-431b-a9de-5da030fe028e,Worcester Snack Bar Right,1920,1080,Landscape,aa121341-4f90-4bf8-954a-0c1c99960c33,Buffone Skating Arena
+0d3ab9f4-8758-413d-9385-10412dc79755,Burlington Main TV,1920,1080,Landscape,38c82fd6-51d9-4bf6-9c84-3ab7638acc58,Burlington Ice Palace
+6d9b286e-ae3f-47da-8d04-9144b01edc6f,Burlington Portrait Left - 2,1080,1920,Portrait,38c82fd6-51d9-4bf6-9c84-3ab7638acc58,Burlington Ice Palace
+9fb6746a-6433-4fd6-b1da-7941a37f0110,Burlington Portrait Right,1080,1920,PortraitLeft,38c82fd6-51d9-4bf6-9c84-3ab7638acc58,Burlington Ice Palace
+e0d3d59d-46f5-4c11-baec-a9c394d77a16,Burlington Rental,1080,1920,Portrait,38c82fd6-51d9-4bf6-9c84-3ab7638acc58,Burlington Ice Palace
+7fec59f1-295d-4033-8411-b57f84d2af7f,Burlington Snack Bar Left,1920,1080,Landscape,38c82fd6-51d9-4bf6-9c84-3ab7638acc58,Burlington Ice Palace
+71604672-0d7c-4967-9a80-4d85957f59b7,Burlington Snack Bar Right,1920,1080,Landscape,38c82fd6-51d9-4bf6-9c84-3ab7638acc58,Burlington Ice Palace
+5e1ec5a7-169c-457c-bd57-47a5a50c493c,CIH New Far Wall,1920,1080,Landscape,700c41d4-9446-46e9-b235-4ad07549254c,Canton Ice House
+d24d49aa-f5e8-4441-8ac8-3191a8869220,CIH New1,1920,1080,Landscape,700c41d4-9446-46e9-b235-4ad07549254c,Canton Ice House
+df25bd10-3b92-4508-b6b6-48406f3e8cf1,CIH New2,1920,1080,Landscape,700c41d4-9446-46e9-b235-4ad07549254c,Canton Ice House
+27e7b91a-1142-45b4-b1d9-9a08987ae69f,Capelli - Lobby,1920,1080,Landscape,cce927d8-3170-492f-b0a1-a58c7919d1c6,Capelli Sports Center
+b1745d29-9b66-4856-b6e0-c6218c9f8a4c,Main Lobby,1920,1080,Landscape,51d3dc63-c66c-4f25-9f7f-96cd2b5e53e3,Charles Moore Arena
+86438150-9e76-4746-b3f7-431e62086165,Cohasset Lobby,1920,1080,Landscape,f41e1819-a1ad-46f7-91c6-dde95c80c783,Cohasset Sports Complex
+0d5bdebb-7535-4c51-bf50-1c7bce7ba4ba,Cohasset Upstairs,1920,1080,Landscape,f41e1819-a1ad-46f7-91c6-dde95c80c783,Cohasset Sports Complex
+068c97e5-85c9-4db6-9bc2-9d41ac450758,Greenfield - Portrait Left,1080,1920,Portrait,9642e2eb-b4d9-4cc6-b3e2-fce08335f388,Collins/Moylan Arena
+9c5591ee-e895-423f-bba3-fd62fccb7fe6,Greenfield - Portrait Right,1080,1920,Portrait,9642e2eb-b4d9-4cc6-b3e2-fce08335f388,Collins/Moylan Arena
+a5442ff8-3c7a-4d5c-a2f3-874558cdb3f4,Greenfield - Rental,1080,1920,Portrait,9642e2eb-b4d9-4cc6-b3e2-fce08335f388,Collins/Moylan Arena
+6dc11192-2ce9-4da5-badb-311c51e44cc8,Greenfield Main TV,1920,1080,Landscape,9642e2eb-b4d9-4cc6-b3e2-fce08335f388,Collins/Moylan Arena
+7df62ee4-3ef7-445c-8400-821eccb4b16e,Greenfield Snack Bar Left,1920,1080,Landscape,9642e2eb-b4d9-4cc6-b3e2-fce08335f388,Collins/Moylan Arena
+7f92fc80-cd64-4214-b2ac-52364f0806f4,Greenfield Snack Bar Right,1920,1080,Landscape,9642e2eb-b4d9-4cc6-b3e2-fce08335f388,Collins/Moylan Arena
+81d90f4e-a0b1-4b52-8b90-eedbff3103a4,Connell Pool,1920,1080,Landscape,6daef65f-3b36-4e6f-8a28-40e41676ddcc,Connell Pool & Rink
+5dd8dfb9-937b-44de-b658-8b7c82c50b12,Connell Rink,1920,1080,Landscape,6daef65f-3b36-4e6f-8a28-40e41676ddcc,Connell Pool & Rink
+f5b25942-4f03-46a9-a2dc-60bdd5f70485,Lynn Main TV,1920,1080,Landscape,28478e4a-2aa8-41e2-9f4d-f7d57595bea6,Connery Ice Rink
+df3ad44f-0778-4d1f-8cbc-9e2c218730ce,Lynn Portrait Left (2),1080,1920,Portrait,28478e4a-2aa8-41e2-9f4d-f7d57595bea6,Connery Ice Rink
+d097449d-5ce5-4ccb-b5b3-989d831751e0,Lynn Portrait Right,1080,1920,Portrait,28478e4a-2aa8-41e2-9f4d-f7d57595bea6,Connery Ice Rink
+c9e7dd96-b98c-4175-9ef1-cb722c871157,Lynn Rental,1080,1920,Portrait,28478e4a-2aa8-41e2-9f4d-f7d57595bea6,Connery Ice Rink
+ea158a5e-46fd-4290-bb88-7fee8bbb980a,Lynn Snack Bar,1080,1920,PortraitLeft,28478e4a-2aa8-41e2-9f4d-f7d57595bea6,Connery Ice Rink
+380d519b-2648-48d6-8cef-be73a65719d4,Revere Main TV,1920,1080,Landscape,e41f4b80-4ec8-40b8-8c00-c27ada346adc,Cronin Ice Rink
+d191e224-6905-41eb-8fac-31d6a5bdb430,Revere Portrait Left,1080,1920,Portrait,e41f4b80-4ec8-40b8-8c00-c27ada346adc,Cronin Ice Rink
+3c2a7ed7-0702-40dd-880a-704505ef572c,Revere Portrait Right,1080,1920,Portrait,e41f4b80-4ec8-40b8-8c00-c27ada346adc,Cronin Ice Rink
+0f532638-b324-45f0-b707-846f6ea3c57c,Revere Rental,1080,1920,Portrait,e41f4b80-4ec8-40b8-8c00-c27ada346adc,Cronin Ice Rink
+d08794a5-2c3e-41b6-8fb1-23c1efdfd72f,Revere Snack Bar,1080,1920,Portrait,e41f4b80-4ec8-40b8-8c00-c27ada346adc,Cronin Ice Rink
+9eaaa291-3a65-4b01-a9d5-f4735d2d0a9c,Daly Rink Lobby,1920,1080,Landscape,addab444-a86e-43b4-8856-0a6a55b748e1,Daly Rink
+32a6e5df-5481-4b9e-ac1b-d8e871caea78,DIH - Left,1080,1920,Portrait,76a171b7-e57e-463b-aafa-a42943e25850,Darien Ice House
+cdded50a-450f-4c39-baba-0b97f77bcd1f,DIH - Right (2),1080,1920,Portrait,76a171b7-e57e-463b-aafa-a42943e25850,Darien Ice House
+628f3a40-aaea-47fa-9deb-f152a6783360,DN - Lobby,1920,1080,Landscape,adf479a5-fe45-41dc-aa82-8d01c906d5f0,Diamond Nation
+cf27913d-daf1-4b4e-abd5-f2ee9024c450,Fall River Main,1920,1080,Landscape,8da827a2-61f6-4333-8adc-f12877c7e5d5,Driscoll Skating Arena
+0603384f-fcc2-48b2-8e98-4a6f04d6a79e,Fall River Portrait Left,1080,1920,Portrait,8da827a2-61f6-4333-8adc-f12877c7e5d5,Driscoll Skating Arena
+099fb9a0-38c0-4989-adcb-69e04c9a61db,Fall River Portrait Right,1080,1920,PortraitLeft,8da827a2-61f6-4333-8adc-f12877c7e5d5,Driscoll Skating Arena
+18b37b36-3e7b-47ef-ab18-dab83476ad75,Fall River Rental,1080,1920,Portrait,8da827a2-61f6-4333-8adc-f12877c7e5d5,Driscoll Skating Arena
+6bb2bfd0-5dd9-4018-8177-6b103427dd77,Fall River Snack,1080,1920,Portrait,8da827a2-61f6-4333-8adc-f12877c7e5d5,Driscoll Skating Arena
+37914f22-63d0-4e48-825f-d9d5d030d594,Essex Lobby,1920,1080,Landscape,96a315a2-ad4f-462a-961b-74e7ce6e4913,Essex Sports Center
+0120bdd3-76c4-4d20-8c0f-20ab4411dc65,Essex Rink Screen,1920,1080,Landscape,96a315a2-ad4f-462a-961b-74e7ce6e4913,Essex Sports Center
+9849e57b-3762-4427-b509-ce131bfbcc4b,Essex Turf Field,1080,1920,PortraitLeft,96a315a2-ad4f-462a-961b-74e7ce6e4913,Essex Sports Center
+4e131fd8-7fa6-4750-b198-8ce0ebf5b145,Holyoke Main TV,1920,1080,Landscape,6fa5ce1f-bcf6-4f45-84ed-f3b546f5a3b4,Fitzpatrick Skating Arena
+c22a326e-52cb-4f57-8c74-c05e210a1214,Holyoke Portrait Left,1080,1920,PortraitLeft,6fa5ce1f-bcf6-4f45-84ed-f3b546f5a3b4,Fitzpatrick Skating Arena
+93f7e83f-2fdb-42d7-a0f3-ead3d11b49a8,Holyoke Portrait Right,1080,1920,Portrait,6fa5ce1f-bcf6-4f45-84ed-f3b546f5a3b4,Fitzpatrick Skating Arena
+5c71e8f3-5f29-4bff-aa3a-141176682da0,Holyoke Rental,1080,1920,Portrait,6fa5ce1f-bcf6-4f45-84ed-f3b546f5a3b4,Fitzpatrick Skating Arena
+9ebbed26-3bc1-4d77-b94f-e459e41c79ae,Holyoke Snack Bar Left,1920,1080,Landscape,6fa5ce1f-bcf6-4f45-84ed-f3b546f5a3b4,Fitzpatrick Skating Arena
+19308c40-ed83-425f-bd7b-09170482e1ac,Holyoke Snack Bar Right,1920,1080,Landscape,6fa5ce1f-bcf6-4f45-84ed-f3b546f5a3b4,Fitzpatrick Skating Arena
+6ccf3abf-2d57-4b7a-bdfc-0ef76eb8ba4f,FMC Office - Courtney,1080,1920,Portrait,fd3b701a-174f-42ee-90a6-9cac58cd1e14,FMC Office
+ec22c726-fc30-4a41-8e84-996f82d3b3cb,Foxboro Sports - Mezzanine,1920,1080,Landscape,c58c331d-2334-43fd-a1e2-52e4e3122c94,Foxboro Sports Center
+ab005511-69e0-406c-a394-cd1c95904056,Foxboro Sports - Rink 1,1920,1080,Landscape,c58c331d-2334-43fd-a1e2-52e4e3122c94,Foxboro Sports Center
+b362b46c-0850-437f-b795-35c14a73a470,Foxboro Sports - Rink 2,1920,1080,Landscape,c58c331d-2334-43fd-a1e2-52e4e3122c94,Foxboro Sports Center
+9d29b913-676e-479f-91e3-fc8c01ff2a3a,Foxboro Sports - Rink 3,1920,1080,Landscape,c58c331d-2334-43fd-a1e2-52e4e3122c94,Foxboro Sports Center
+a2e0578f-09eb-4776-9d48-904d02cb8a9c,FR - Albany #1 (new),1920,1080,Landscape,b7fc3db2-c9f8-4cb4-a30d-0ba39fb28c14,Frozen Ropes
+2c1fd4de-8181-4e97-83ee-3c4cef8ccd6d,FR - Albany New 1,1920,1080,Landscape,b7fc3db2-c9f8-4cb4-a30d-0ba39fb28c14,Frozen Ropes
+f278503a-dd47-482e-870a-3cd14504002e,FR - Albany New 2,1920,1080,Landscape,b7fc3db2-c9f8-4cb4-a30d-0ba39fb28c14,Frozen Ropes
+bbb3eb33-7a52-42b6-ad47-77d6e732777e,FR - Albany Pro Shop,1920,1080,Landscape,b7fc3db2-c9f8-4cb4-a30d-0ba39fb28c14,Frozen Ropes
+af7fe693-15d2-422b-bb84-4a64d203dfac,FR Chester - Behind Snack Bar,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes
+887bf353-eae0-4ba4-aafe-a12b8ed8cb82,FR Chester - Field,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes
+e605a730-a75d-4dd0-9f07-8fb29ac0466a,FR Chester - Front Desk,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes
+2c260906-c943-44bb-bd12-2f69d20f0b23,FR Chester - Lobby,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes
+dbecc020-9c87-4dab-a1fb-ee3ed2979ed5,FR Chester - Lounge,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes
+56255324-1338-43cd-8e21-8e7e814d2e5c,FR Chester - Outside,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes
+eb40b3b3-6a38-46f3-bea1-07653daf876f,FR Chester - Side Entrance,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes
+e83e9e3d-b394-430a-9eb5-1b62ecb4831f,FR Chester #8 Viewing Room,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes
+333151bb-a6fa-4601-82e8-7487c174d0d1,Frozen Ropes - Front,1920,1080,Landscape,5525ae80-fbec-4b2d-a7e4-dcc871b8ef01,Frozen Ropes
+5911ec49-6c53-45c8-a47e-c588c313a0bd,Frozen Ropes - Turf,1920,1080,Landscape,5525ae80-fbec-4b2d-a7e4-dcc871b8ef01,Frozen Ropes
+b01e62b3-a250-40a6-99dc-785a527588d3,Gardner Main TV,1920,1080,Landscape,1b3485ab-6eeb-418e-aa9e-521699a52122,Gardner Veteran's Arena
+04488196-c3cf-4af5-a00f-290f8ad5773e,Gardner Menu Left,1920,1080,Landscape,1b3485ab-6eeb-418e-aa9e-521699a52122,Gardner Veteran's Arena
+4da47ef7-ea93-4e1f-ba36-29be341eb3a6,Gardner Portrait Left,1080,1920,Portrait,1b3485ab-6eeb-418e-aa9e-521699a52122,Gardner Veteran's Arena
+12e79a64-bf12-491d-8111-b645c6e05289,Gardner Portrait Right,1080,1920,Portrait,1b3485ab-6eeb-418e-aa9e-521699a52122,Gardner Veteran's Arena
+ff89624a-fbfa-4917-88b8-153edfeba35b,Gardner Rental,1080,1920,Portrait,1b3485ab-6eeb-418e-aa9e-521699a52122,Gardner Veteran's Arena
+c5025923-f004-4c16-97e9-46e863e920c4,Gardner Snack Bar Right,1920,1080,Landscape,1b3485ab-6eeb-418e-aa9e-521699a52122,Gardner Veteran's Arena
+08c21006-9478-471b-95b1-745147415999,HQ - Group Fitness,1920,1080,Landscape,9080ee31-aad4-4ce4-bb84-4edbe60c89a7,HealthQuest
+1b12c57f-6dab-4668-9ead-fceb6d521395,HQ - Stairs,1920,1080,Landscape,9080ee31-aad4-4ce4-bb84-4edbe60c89a7,HealthQuest
+f8244983-277d-4638-be32-6a98b54b85bf,HQ - Trainer Wall,1920,1080,Landscape,9080ee31-aad4-4ce4-bb84-4edbe60c89a7,HealthQuest
+3a0cf21f-8721-4d10-80ac-518ddb7cc15b,HQ - Water Fountains (New),1920,1080,Landscape,9080ee31-aad4-4ce4-bb84-4edbe60c89a7,HealthQuest
+7b54eb31-6e63-418c-b157-ad9369a9df57,Henry Graf Lobby Left,1920,1080,Landscape,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+92dae09f-03f7-49e2-ad33-7f669ca9bbd8,Henry Graf Lobby Right,1920,1080,Landscape,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+5433e2fa-2143-4b00-b4e7-81662d1f402c,Henry Graf Lobby Vending,1920,1080,Landscape,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+6c7c62c1-f278-425d-b2ea-889e0158510c,Henry Graf Middle Left,1920,1080,Landscape,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+01794fa6-ce99-4404-8e6e-f6e3441a5b5f,Henry Graf Middle Right,1920,1080,Landscape,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+1c973447-5f7a-4bbe-9eb0-2e08ade7eecc,New Bedford Main TV,1920,1080,Landscape,af14b03e-cdf3-4afa-9c1a-2e487ca2c262,Hetland Skating Arena
+16c39063-b323-400e-a096-8a31969ccf82,New Bedford Portrait Left,1080,1920,Portrait,af14b03e-cdf3-4afa-9c1a-2e487ca2c262,Hetland Skating Arena
+bbabbcf0-678d-48c4-b3f2-ec999430cd76,New Bedford Portrait Right,1080,1920,Portrait,af14b03e-cdf3-4afa-9c1a-2e487ca2c262,Hetland Skating Arena
+17115ce1-7e66-4899-bf52-fafa303ac685,New Bedford Rental,1080,1920,PortraitLeft,af14b03e-cdf3-4afa-9c1a-2e487ca2c262,Hetland Skating Arena
+80f783a7-4180-4548-9ba0-e71576a060c5,New Bedford Snack,1080,1920,Portrait,af14b03e-cdf3-4afa-9c1a-2e487ca2c262,Hetland Skating Arena
+4f11d062-a476-4419-bf30-f64e66505069,Hobomock Lobby Left 2,1920,1080,Landscape,327d75b7-0b3e-4508-abaf-f0c7709b267a,Hobomock Arena
+c6b2c5bc-c76f-4d1c-be68-2a032b096063,Hobomock Lobby Right,1920,1080,Landscape,327d75b7-0b3e-4508-abaf-f0c7709b267a,Hobomock Arena
+c32c06de-36f5-4c19-bed6-81e3f82ad28f,Auburn Main TV,1920,1080,Landscape,654bfe73-f8b8-427e-8a87-78b2f4adcf7c,Horgan Arena
+ae45f7a5-9d2d-47c7-b683-b89a9461fe69,Auburn Portrait Left,1080,1920,PortraitLeft,654bfe73-f8b8-427e-8a87-78b2f4adcf7c,Horgan Arena
+67dfbb88-79e8-40af-b908-815ffc97d0ba,Auburn Portrait Right,1080,1920,PortraitLeft,654bfe73-f8b8-427e-8a87-78b2f4adcf7c,Horgan Arena
+0c1cd62d-a785-486f-bc19-3b2e53f3d98f,Auburn Rental,1080,1920,Portrait,654bfe73-f8b8-427e-8a87-78b2f4adcf7c,Horgan Arena
+6796a0c7-a414-4372-a592-b72dd6d61caa,Auburn Snack Bar,1080,1920,Portrait,654bfe73-f8b8-427e-8a87-78b2f4adcf7c,Horgan Arena
+7190e377-6e46-4c6f-b992-2b5d40fd4501,Insports - Big TV,1920,1080,Landscape,89929c91-9af4-404b-841c-400dfb990080,InSports
+64ac5070-5c83-4869-9b7d-6b8f6582abbc,Insports - Court (1),1920,1080,Landscape,89929c91-9af4-404b-841c-400dfb990080,InSports
+cf4930f7-8436-4a51-ac9e-04e3a00c6239,Insports - Court (2),1920,1080,Landscape,89929c91-9af4-404b-841c-400dfb990080,InSports
+a2f1476d-fada-45e8-af26-754283a50914,Insports - Courts (3),1920,1080,Landscape,89929c91-9af4-404b-841c-400dfb990080,InSports
+629fca91-51d6-4388-918e-a99e87404f89,Insports - Field (1),1920,1080,Landscape,89929c91-9af4-404b-841c-400dfb990080,InSports
+6b63fb55-f645-4964-a74b-b17734a36bb0,Insports - Field (2),1920,1080,Landscape,89929c91-9af4-404b-841c-400dfb990080,InSports
+e7104b60-9eb7-4851-bbaf-2869f3fdc336,InSports - Training,1920,1080,Landscape,89929c91-9af4-404b-841c-400dfb990080,InSports
+46d7ffe1-7362-47b7-bd20-841b32894544,Insports Bar,1920,1080,Landscape,89929c91-9af4-404b-841c-400dfb990080,InSports
+62603067-88b5-4b7e-8488-25040f27db92,Janas Lobby,1920,1080,Landscape,6df66a34-db16-4b4f-af5b-8914fbb896a3,Janas Memorial Skating Rink
+6961898c-31ce-4e70-b40e-2d61147b9ee7,West Roxbury Main TV,1920,1080,Landscape,8485d320-6464-4a94-928b-648b8f706a70,Jim Roche Community Arena
+48953806-d528-4a5c-b973-aa9885a07895,West Roxbury Portrait Left,1080,1920,Portrait,8485d320-6464-4a94-928b-648b8f706a70,Jim Roche Community Arena
+183e1146-1854-4b62-a0f3-607c73f3c437,West Roxbury Portrait Right,1080,1920,PortraitLeft,8485d320-6464-4a94-928b-648b8f706a70,Jim Roche Community Arena
+0e330449-21a5-468b-8203-88540b826aea,West Roxbury Rental,1080,1920,Portrait,8485d320-6464-4a94-928b-648b8f706a70,Jim Roche Community Arena
+92df9ddc-561b-40f2-b381-d40df70fff1f,West Roxbury Snack Bar Left,1920,1080,Landscape,8485d320-6464-4a94-928b-648b8f706a70,Jim Roche Community Arena
+490ff534-6e73-4f48-b523-7ab3e7bba6db,West Roxbury Snack Bar Right,1920,1080,Landscape,8485d320-6464-4a94-928b-648b8f706a70,Jim Roche Community Arena
+8ed6f6f2-bdcc-44ff-8b51-4629efa36198,Ice Rink,1920,1080,Landscape,5186bdd7-d0d0-4a61-b992-aad166436a38,Long Island Sports Hub
+896200f0-b2de-40e7-8cf3-1a0e61f4b91f,LI - Field Screen,1920,1080,Landscape,5186bdd7-d0d0-4a61-b992-aad166436a38,Long Island Sports Hub
+8af853a2-99ed-40f6-9e36-a6aef98b574c,Lobby - Bottom Screen,1920,1080,Landscape,5186bdd7-d0d0-4a61-b992-aad166436a38,Long Island Sports Hub
+7a06810f-2071-4ca4-a139-c4a2ffac07a4,Lobby - Top Screen,1920,1080,Landscape,5186bdd7-d0d0-4a61-b992-aad166436a38,Long Island Sports Hub
+0794f685-5d2b-4cb0-8f80-f021fbe46260,Lynch Main1,1920,1080,Landscape,7ac615ac-c750-4d32-a18a-fc73f0ba6b04,Lynch Arena
+27ba0dea-b203-4be9-ac23-84f3a4b7d673,Bavis Lobby,1920,1080,Landscape,854e7837-4d64-40ab-9ad4-9ebcc0cbc5f7,Mark Bavis Arena
+cd7060eb-a127-4461-a643-79d07c6abc8b,Micro Ice Center - Rink,1920,1080,Landscape,8c530ca5-78d2-40ae-adfb-421cc67234ea,Micro Ice Center
+111cd846-63d7-4f69-95ff-9619a7f19d19,Montclair Main Lobby,1920,1080,Landscape,aec9e20c-91fb-4dca-8835-12bd8981c9e8,Montclair State University Ice Arena
+fda2db18-e766-4728-b96e-a0711877a4a7,Montclair Upstairs Left,1920,1080,Landscape,aec9e20c-91fb-4dca-8835-12bd8981c9e8,Montclair State University Ice Arena
+14acdff3-4a09-4d9b-bbd9-d77c3a8c8f49,Montclair Upstairs Right,1920,1080,Landscape,aec9e20c-91fb-4dca-8835-12bd8981c9e8,Montclair State University Ice Arena
+f5280de2-8ccc-40f2-95cc-e77017cb7550,Navin Main TV,1920,1080,Landscape,d0564930-b457-4b9b-8890-ab1a0799db0e,Navin Skating Arena
+b48d5ba4-fa0b-437f-b59a-d2589f44f5bd,Navin Portrait Left,1080,1920,PortraitLeft,d0564930-b457-4b9b-8890-ab1a0799db0e,Navin Skating Arena
+03a6a05e-c252-4c6d-b405-a449cde1809a,Navin Portrait Right,1080,1920,PortraitLeft,d0564930-b457-4b9b-8890-ab1a0799db0e,Navin Skating Arena
+a3ebfece-0e90-4f28-a34d-27824ebb6d5a,Navin Rental,1080,1920,Portrait,d0564930-b457-4b9b-8890-ab1a0799db0e,Navin Skating Arena
+a2ce4160-4572-42d9-b6ff-7aa5b755db58,Navin Snack Bar Left,1920,1080,Landscape,d0564930-b457-4b9b-8890-ab1a0799db0e,Navin Skating Arena
+433f004b-41cf-4f0d-9df0-f714f6eb4461,Navin Snack Bar Right,1920,1080,Landscape,d0564930-b457-4b9b-8890-ab1a0799db0e,Navin Skating Arena
+7c2f2b7c-5759-47f7-b830-3b999150d9f8,Lobby - Left,1920,1080,Landscape,be9a19cc-4bd5-435b-88b2-f44b8b4b447f,Paul T. Gilmartin Memorial Arena
+759fc3dd-09ef-4797-bc5d-dc04a49a4e99,Lobby - Right,1920,1080,Landscape,be9a19cc-4bd5-435b-88b2-f44b8b4b447f,Paul T. Gilmartin Memorial Arena
+fc39a79f-0fe5-4848-b3e3-7b810e034c51,Lovell,1920,1080,Landscape,27942d2f-7f0f-4d4e-8f2d-c738e61b8a95,Pilgrim Skating Arena
+9533bb8f-4116-4d07-9ffb-779bbb9d5c99,PSA Hingham,1920,1080,Landscape,27942d2f-7f0f-4d4e-8f2d-c738e61b8a95,Pilgrim Skating Arena
+5151753d-3d3d-4ade-934d-55a0fe0f9936,PSA Lobby,1920,1080,Landscape,27942d2f-7f0f-4d4e-8f2d-c738e61b8a95,Pilgrim Skating Arena
+2c0187df-bcb1-476b-a738-30c14acdfb6f,Franklin Main TV 2,1920,1080,Landscape,a0b54942-fca8-4782-a1cd-e796fcd92dd1,Pirelli Veteran's Arena
+87ff5115-fd98-4553-ace1-2b2f5ef24482,Franklin Portrait Left 2,1080,1920,Portrait,a0b54942-fca8-4782-a1cd-e796fcd92dd1,Pirelli Veteran's Arena
+1773fe43-2c05-4239-8796-e8ba7e9316b1,Franklin Portrait Right 2,1080,1920,Portrait,a0b54942-fca8-4782-a1cd-e796fcd92dd1,Pirelli Veteran's Arena
+d17bcb18-16d9-46e4-8970-48b706b18404,Franklin Rental 2,1080,1920,Portrait,a0b54942-fca8-4782-a1cd-e796fcd92dd1,Pirelli Veteran's Arena
+6cf57826-a05a-4b11-97ce-3c06fdd989f5,Franklin Snack Bar 3,1080,1920,Portrait,a0b54942-fca8-4782-a1cd-e796fcd92dd1,Pirelli Veteran's Arena
+ca64f3a6-1849-499e-bc49-0feb2cae263b,East Boston Left,1080,1920,Portrait,13e05a23-f5b2-432c-ba4e-c9d2c8264852,Porrazzo Skating Rink
+293915b5-7c59-4309-9083-07698cdd869a,East Boston Main,1920,1080,Landscape,13e05a23-f5b2-432c-ba4e-c9d2c8264852,Porrazzo Skating Rink
+6092263b-60d7-4aa3-ad22-6cd9429011de,East Boston Menu Right,1920,1080,Landscape,13e05a23-f5b2-432c-ba4e-c9d2c8264852,Porrazzo Skating Rink
+a373c559-bfcc-47fe-8901-52892a022364,East Boston Portrait Right,1080,1920,PortraitLeft,13e05a23-f5b2-432c-ba4e-c9d2c8264852,Porrazzo Skating Rink
+f078a83d-7036-4917-bfe8-5d33273ca9a2,East Boston Rental,1080,1920,Portrait,13e05a23-f5b2-432c-ba4e-c9d2c8264852,Porrazzo Skating Rink
+98897ffe-faa7-4aef-8c83-0bac859085c4,East Boston Snack Bar Left,1920,1080,Landscape,13e05a23-f5b2-432c-ba4e-c9d2c8264852,Porrazzo Skating Rink
+b751fc7d-53e6-48ba-8a0c-2d3762eba794,Raynham Main TV,1920,1080,Landscape,cddf7175-9b2c-4cc0-a79c-2b17c1872b66,Raynham IcePlex
+ced0e266-b566-468d-aa36-19e8fc3eec13,Raynham Portrait Left 2,1080,1920,Portrait,cddf7175-9b2c-4cc0-a79c-2b17c1872b66,Raynham IcePlex
+332bdd8c-c5d0-4284-946b-886b9d3514b5,Raynham Portrait Right 2,1080,1920,Portrait,cddf7175-9b2c-4cc0-a79c-2b17c1872b66,Raynham IcePlex
+b6903a86-94db-4e24-81b7-b194b4c8e490,Raynham Rental,1080,1920,PortraitLeft,cddf7175-9b2c-4cc0-a79c-2b17c1872b66,Raynham IcePlex
+8ce0d6e4-92a4-4e67-931f-303e631348c8,Raynham Snack Bar Left,1920,1080,Landscape,cddf7175-9b2c-4cc0-a79c-2b17c1872b66,Raynham IcePlex
+59e810e5-a651-473b-81e0-638ad2c41ac9,Raynham Snack Bar Right,1920,1080,Landscape,cddf7175-9b2c-4cc0-a79c-2b17c1872b66,Raynham IcePlex
+61848bad-1944-475e-80f9-542fd1889e52,RISS Main,1920,1080,Landscape,c6dfcec4-6047-4502-ad4e-e9bc096f5d9a,Rhode Island Sports Center
+f17d8a3b-b857-47c3-a89c-493238bf8de9,Ristuccia Lobby,1920,1080,Landscape,3070f3a1-7de0-45e1-8e45-66423648d20f,Ristuccia Memorial Ice Arena
+13103a95-2cd8-421c-a3ca-9aa84acd3189,Rockland Cafe,1920,1080,Landscape,24ba151e-7ccc-49b9-b824-f2ce82cf23b4,Rockland Ice Rink
+1638dc0a-0999-45b2-b94d-4d4c417331f4,Rockland Rink,1920,1080,Landscape,24ba151e-7ccc-49b9-b824-f2ce82cf23b4,Rockland Ice Rink
+2c6febf6-5932-4238-bcf0-0f715a483308,Rodman Lobby Right,1920,1080,Landscape,6c8f7c42-64d3-49b9-bcf0-229d8bf76aaf,Rodman Arena
+f8a26862-7223-457c-a040-f075f14659dd,Rodman Main Left,1920,1080,Landscape,6c8f7c42-64d3-49b9-bcf0-229d8bf76aaf,Rodman Arena
+44de8cf0-fbeb-44b3-b923-074199ae3217,Rodman Main Mid,1920,1080,Landscape,6c8f7c42-64d3-49b9-bcf0-229d8bf76aaf,Rodman Arena
+f8f00c65-515c-437f-98e5-ea6717063533,Rodman Main Right,1920,1080,Landscape,6c8f7c42-64d3-49b9-bcf0-229d8bf76aaf,Rodman Arena
+87add9b9-eb25-4a69-81b9-700da04267f5,Rodman Snack Bar,1080,1920,PortraitLeft,6c8f7c42-64d3-49b9-bcf0-229d8bf76aaf,Rodman Arena
+b75ea3ba-de38-40df-9e11-8f6ee0d2342b,Salem Ice Center Lobby,1920,1080,Landscape,8fea0208-bb00-4435-ab98-687a5add0d64,Salem Ice Center
+4dcca0fd-4816-4967-a23f-d7e89d2d35e2,Cambridge Menu Left,1920,1080,Landscape,59be4dc7-4847-4bad-a292-0b4b229bc98d,Simoni Skating Rink
+680d04d2-5073-4a15-a1e1-4a08483750ff,Cambridge Menu Right,1920,1080,Landscape,59be4dc7-4847-4bad-a292-0b4b229bc98d,Simoni Skating Rink
+3be6edfc-8282-470a-8351-f0b208d98f32,Cambridge Portrait Left 2,1080,1920,Portrait,59be4dc7-4847-4bad-a292-0b4b229bc98d,Simoni Skating Rink
+71a24afc-df46-40a4-8b57-5817a6c708d1,Cambridge Portrait Right 2,1080,1920,Portrait,59be4dc7-4847-4bad-a292-0b4b229bc98d,Simoni Skating Rink
+a4514adc-b6a8-48ea-ade3-dabdf142f66e,Cambridge Rental,1080,1920,Portrait,59be4dc7-4847-4bad-a292-0b4b229bc98d,Simoni Skating Rink
+31f30784-d581-4c11-90d5-72c17675ad48,Springfield Main TV,1920,1080,Landscape,e195dc27-a667-4474-aae1-7f316e7785d2,Smead Skating Arena
+2f59044e-fa3d-4da5-8655-42f14ca61191,Springfield Portrait Left,1080,1920,Portrait,e195dc27-a667-4474-aae1-7f316e7785d2,Smead Skating Arena
+de7c2a82-5ad9-43cd-9831-ed007b2775f0,Springfield Portrait Right,1080,1920,Portrait,e195dc27-a667-4474-aae1-7f316e7785d2,Smead Skating Arena
+9a2f6236-02ed-4755-b827-e4178c41d08c,Springfield Rental,1080,1920,Portrait,e195dc27-a667-4474-aae1-7f316e7785d2,Smead Skating Arena
+80afea17-078b-4f6c-bf87-1923db11caf0,SIH - Lobby,1920,1080,Landscape,c0cde7ac-6ed8-48f0-8d73-4e08fabb0ab5,Sono Ice House
+348f67a5-66df-45fa-91a7-b3ddd82a0914,Sono Bar,1920,1080,Landscape,c0cde7ac-6ed8-48f0-8d73-4e08fabb0ab5,Sono Ice House
+b17da58a-2e0e-454b-ad9c-3b0bafb2c9d4,SSGA Back Lobby,1920,1080,Landscape,c56b39e7-3eca-40f9-b80d-625ca3d4f964,South Shore Gymnastics
+2a536dbd-d3eb-4c06-b00a-f96640e79237,SSGA Lobby,1920,1080,Landscape,c56b39e7-3eca-40f9-b80d-625ca3d4f964,South Shore Gymnastics
+9501302b-95f4-4cd7-860d-c5ae05ee3781,Cafe 3,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+a4cdaf76-18eb-4628-b357-5459062d835d,Concession Lobby,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+c7230fa1-fd54-4f91-aca5-d276ddc94085,Concession Menu Left,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+7887ea3e-4b63-46d6-9c59-b103fd3732fb,Concession Menu Right,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+866af5f9-ffe2-4dd0-a570-caec2516c143,Court Lobby (Portrait),1080,1920,Portrait,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+8b67cdbc-3e68-43fd-8e38-0060f4dd6474,Marketing Office,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+bcaa31ba-83fd-4927-be8e-8482e652ecd1,PDR,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+ccdb7da8-b709-4154-bd7e-d561059cd5cc,Rec Room - Arcade,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+45f1f540-d0fd-4243-9730-2fae737d2b74,Starland Court Lobby,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+da920b42-5df9-4bd7-8bb9-f0e961f74751,Starland Turf Lobby,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+3fac6f25-fea1-4ddd-a630-6b3e31a28d81,Starland Turf Lobby (Fuel),1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+ad9af369-8a86-4e2c-baf5-98a61b0a248c,Starland Upper Lobby,1920,1080,Landscape,aae83236-d562-4ee9-9d85-d823b9144a90,Starland Sportsplex & Fun Park
+3c941d36-9ac7-4878-b801-e9e5dd8a9653,Thayer - New 1,1920,1080,Landscape,245d4ed9-2584-44e3-a8b0-1fc1f1a63883,Thayer Sports Center
+f307f2bd-263f-4369-ba4d-0cca268936a5,Thayer - New 2,1920,1080,Landscape,245d4ed9-2584-44e3-a8b0-1fc1f1a63883,Thayer Sports Center
+5e19d4c9-0f6f-485a-9c17-17577e29df0b,Thayer Lobby,1920,1080,Landscape,245d4ed9-2584-44e3-a8b0-1fc1f1a63883,Thayer Sports Center
+ab0ccaea-bdd3-4138-a5bb-b686335ef35b,Thayer Rink,1920,1080,Landscape,245d4ed9-2584-44e3-a8b0-1fc1f1a63883,Thayer Sports Center
+d6256bf9-de08-4218-bae8-fd6ea37b4f5b,The Bog Lobby 2,1920,1080,Landscape,c14d0698-f4db-4747-a848-99dc6f365a56,The Bog Ice Arena
+4e354431-4b26-4ea4-b4ae-46f325a20761,The Bog Rink,1920,1080,Landscape,c14d0698-f4db-4747-a848-99dc6f365a56,The Bog Ice Arena
+baa6a8ef-246d-497a-9117-7d4b2b4efd50,Exeter - Power Play Cafe 2,1920,1080,Landscape,1d20e920-e488-439e-8b9f-1d5b3b5c8692,The Rinks At Exeter
+4178fceb-63a0-4217-9e53-d224f742da6a,Exeter Lobby Left,1920,1080,Landscape,1d20e920-e488-439e-8b9f-1d5b3b5c8692,The Rinks At Exeter
+9bbf4830-5595-421f-82d8-9dd49b3d8414,Exeter Lobby Right,1920,1080,Landscape,1d20e920-e488-439e-8b9f-1d5b3b5c8692,The Rinks At Exeter
+a21ce921-f565-4489-9ac2-d6e4fd18c046,Exeter Rink Mens,1920,1080,Landscape,1d20e920-e488-439e-8b9f-1d5b3b5c8692,The Rinks At Exeter
+ea933ce6-8fc6-4436-8a39-34f81c95ad30,Exeter Rink Mens Two,1920,1080,Landscape,1d20e920-e488-439e-8b9f-1d5b3b5c8692,The Rinks At Exeter
+c30ab56b-296e-444f-a8ea-7d8f8d7609be,The Rinks - Bar,1920,1080,Landscape,1d20e920-e488-439e-8b9f-1d5b3b5c8692,The Rinks At Exeter
+202b44db-c37a-46e3-80b2-fbb3e18d1cf6,Salem Store - Lobby,1920,1080,Landscape,70ba8b64-91de-45f9-9535-862d8d42ec56,TSR Hockey - Salem Store
+270dde08-e1a0-4d12-8343-68ee8854c7d5,Veterans - Main TV,1920,1080,Landscape,b732eaec-2dd0-4aa4-837a-c3ec51007cf2,Veterans Memorial Rink
+415c722c-6f00-463a-b1f4-0f9012563ee1,Veterans - Portrait Left,1080,1920,Portrait,b732eaec-2dd0-4aa4-837a-c3ec51007cf2,Veterans Memorial Rink
+5b67ea2d-772f-41be-b985-b3e0cacf7240,Veterans - Portrait Right,1080,1920,Portrait,b732eaec-2dd0-4aa4-837a-c3ec51007cf2,Veterans Memorial Rink
+faa3b0db-9e09-472b-98eb-e5177f3ca2f6,Veterans - Rental,1080,1920,Portrait,b732eaec-2dd0-4aa4-837a-c3ec51007cf2,Veterans Memorial Rink
+dbfb68be-0f7f-4ef4-bdbb-6ac59cb08948,Veterans - Snack Bar Left,1920,1080,Landscape,b732eaec-2dd0-4aa4-837a-c3ec51007cf2,Veterans Memorial Rink
+70915dc9-4b9d-47ae-b91a-dee5dc74bc5c,Veterans - Snack Bar Right,1920,1080,Landscape,b732eaec-2dd0-4aa4-837a-c3ec51007cf2,Veterans Memorial Rink
+43856c9f-d727-4912-9fb5-f61bf3a23830,Fitchburg Main,1920,1080,Landscape,bc7d2a2e-622f-49d6-90ee-2a863f2491be,Wallace Civic Center
+96adfb1f-4dd4-4934-936a-3461a5a5c176,Fitchburg Snack Bar,1080,1920,Portrait,bc7d2a2e-622f-49d6-90ee-2a863f2491be,Wallace Civic Center
+e87d27dd-2171-43d4-9fc1-d14221b36e00,Fitchburg Snack Left,1920,1080,Landscape,bc7d2a2e-622f-49d6-90ee-2a863f2491be,Wallace Civic Center
+065d2c73-f92b-4471-b3a7-c35337a7ea7c,Fitchburg Snack Right,1920,1080,Landscape,bc7d2a2e-622f-49d6-90ee-2a863f2491be,Wallace Civic Center
+ea2d4b95-66fe-40f6-b08d-26a618e510c5,Natick Main Screen,1920,1080,Landscape,ecba141a-ec01-4a1f-80bc-ec487a3f4486,William L. Chase Arena
+7e5bde9e-8747-4c1b-a61c-b050debd3f26,Natick Portrait Left,1080,1920,Portrait,ecba141a-ec01-4a1f-80bc-ec487a3f4486,William L. Chase Arena
+b7b3b9c8-8f29-4076-b8b0-ab4e0eefa68e,Natick Portrait Right,1080,1920,Portrait,ecba141a-ec01-4a1f-80bc-ec487a3f4486,William L. Chase Arena
+1dac46a4-5329-4d72-8263-a019290dfe6c,Natick Rental,1080,1920,Portrait,ecba141a-ec01-4a1f-80bc-ec487a3f4486,William L. Chase Arena
+2a99c9bf-5e86-495e-b453-09f58eb25ad0,Natick Snack Bar Left,1920,1080,Landscape,ecba141a-ec01-4a1f-80bc-ec487a3f4486,William L. Chase Arena
+8b29a09c-a73e-421d-be21-e833e417173a,Natick Snack Bar Right,1920,1080,Landscape,ecba141a-ec01-4a1f-80bc-ec487a3f4486,William L. Chase Arena
+331024eb-fc22-4881-982c-39afdaa3cf35,Worcester (Left),1920,1080,Landscape,02adde01-8fcb-4f2e-8104-dbed716090a5,Worcester Ice Center
+ee131a4a-81c7-4b57-b2d3-755951bbce7a,Worcester (Right),1920,1080,Landscape,02adde01-8fcb-4f2e-8104-dbed716090a5,Worcester Ice Center
+d780bcd1-d075-46e5-871c-c0a79edf8957,Randolph Lobby,1080,1920,Portrait,a8542977-47a3-4fbe-b174-07a2dba45614,Zapustas Ice Arena
