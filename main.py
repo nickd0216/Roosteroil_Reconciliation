@@ -1,5 +1,7 @@
 import csv
+import io
 import sys
+import urllib.request
 from dataclasses import dataclass
 from typing import Dict, List, Set
 
@@ -19,33 +21,51 @@ class Screen:
     def __str__(self):
         return f"Screen(id={self.screen_id}, width={self.width}, height={self.height}, name='{self.name}')"
 
-
-#Use this to get the screens from the vengo csv file
-def load_vengo_screens(vengo_file, vengo_screens):
+def download_sheet_as_csv() -> str:
+    #Using the exact url for the Vengo sheet if need be we can change to something else
     try:
-        with open(vengo_file, 'r', encoding='utf-8') as file:
-            reader = csv.DictReader(file)
-            for row in reader:
-                screenId = row.get('ad_unit_id', '').strip()
-                height = row.get('screen_height', '').strip()
-                width = row.get('screen_width', '').strip()
-                screenName = row.get('ad_unit_name', '').strip()
 
-                #Check if id actually filled
-                if screenId:
-                    screen = Screen(screen_id = screenId, screen_height = height, screen_width = width, screen_name = screenName)
-                    vengo_screens[screenId] = screen
+        csv_url = "https://docs.google.com/spreadsheets/d/1Vx4oPbFGaoSji2JoEeIgRIXBOrgIniTs31s-dRm6zdQ/export?format=csv&gid=496867663"
+        print(f"Downloading data from Google Sheets")
+
+        #Downloading the csv data and saving it as string in csv data
+        with urllib.request.urlopen(csv_url) as response:
+            csv_data = response.read().decode('utf-8')
+        return csv_data
     
-    #Basic error handing
-    except FileNotFoundError as e:
-        print(f"Error: Could not find file - {e}")
-        sys.exit(1)
+    #Error handling for url lookup and other sheets errors
+    except urllib.error.HTTPError as e:
+        print("Url error")
     except Exception as e:
-        print(f"Error: {e}")
+        print("error loading from google sheets")
+
+def load_vengo_from_sheet_string(csv_text: str, vengo_screens: Dict[str, Screen]) -> None:
+    #Use io operations to read from the csv text string we created    
+    try:
+        csvfile = io.StringIO(csv_text)
+        reader = csv.DictReader(csvfile)
+
+        #Create a new screen object for each Vengo screen
+        for row in reader:
+            screenId = row.get('ad_unit_id', '').strip()
+            height = row.get('screen_height', '').strip()
+            width = row.get('screen_width', '').strip()
+            screenName = row.get('ad_unit_name', '').strip()
+
+            if screenId and height and width:
+
+                screen = Screen(
+                    screen_id=screenId,
+                    screen_height=height,
+                    screen_width=width,
+                    screen_name=screenName,
+                )
+                vengo_screens[screenId] = screen
+
+    except Exception as e:
+        print(f"Error loading Vengo screens from CSV string: {e}")
         sys.exit(1)
 
-
-#Use this to get the screens from the venueX csv file
 def load_venueX_screens(venuex_file, venuex_screens):
     try:
         with open(venuex_file, 'r', encoding='utf-8') as file:
@@ -79,9 +99,6 @@ def load_venueX_screens(venuex_file, venuex_screens):
         print(f"Error: {e}")
         sys.exit(1)
 
-
-        
-
 def reconcile_screens(venuex, vengo):
     #Use these to compare the screen ids
     venuex_ids: Set[str] = set(venuex.keys())
@@ -103,9 +120,9 @@ def reconcile_screens(venuex, vengo):
         vengo_screen = vengo[screen_id]
 
         if venuex_screen.screen_width != vengo_screen.screen_width:
-            resolution_Changes.append(id)
+            resolution_Changes.append(screen_id)
         elif venuex_screen.screen_height != vengo_screen.screen_height:
-            resolution_Changes.append(id)
+            resolution_Changes.append(screen_id)
 
     
     # Output for Screens to add to Vengo
@@ -130,7 +147,7 @@ def reconcile_screens(venuex, vengo):
     if resolution_Changes:
         print("Screens that need to have resolutions updated")
         for screen_id in sorted(resolution_Changes):
-                screen = venuex_screens[screen_id]
+                screen = venuex[screen_id]
                 print(f"  {screen.screen_name} | {screen_id}")
     else:
         print("\nNo screens need resolution changes")
@@ -140,7 +157,6 @@ def reconcile_screens(venuex, vengo):
         generate_Vengo_CSV(Add_to_Vengo, venuex)
 
     return Add_to_Vengo, Delete_From_Vengo, resolution_Changes
-
 
 def generate_Vengo_CSV(screens_to_add, venuex_screens, output_filename="screens_to_add_vengo.csv"):
 
@@ -190,25 +206,25 @@ def generate_Vengo_CSV(screens_to_add, venuex_screens, output_filename="screens_
 
 def main():
     #Use this for command line argument handling
-    if len(sys.argv) != 3:
-        print("Usage: python main.py [venuex-csv] [vengo-csv]")
+    if len(sys.argv) != 2:
+        print("Usage: python main.py [venuex-csv]")
         sys.exit(1)
 
     venuex_file = sys.argv[1]
-    vengo_file = sys.argv[2]
 
     #Dictionaries using the screen id
     venuex_screens: Dict[str, Screen] = {}
     vengo_screens: Dict[str, Screen] = {}
 
-    load_vengo_screens(vengo_file, vengo_screens)
-    print("Loaded Vengo Screens\n")
     load_venueX_screens(venuex_file, venuex_screens)
     print("Loaded VenueX Screens\n")
 
+    #Get sheet as csv string then use it to load all vengo screen data into Vengo Dict
+    csv_string = download_sheet_as_csv()
+    load_vengo_from_sheet_string(csv_string, vengo_screens)
+    print("Loaded Vengo Screens from Google Sheets\n")
+
     reconcile_screens(venuex_screens, vengo_screens)
-
-
 
 if __name__ == "__main__":
     main()

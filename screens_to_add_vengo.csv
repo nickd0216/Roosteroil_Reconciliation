@@ -1,0 +1,29 @@
+ad_unit_id,ad_unit_name,screen_width,screen_height,orientation,venue_id,venue_name
+027676e1-edde-4693-bdcb-fd6f77beea6f,Rink2 Schedule,1920,1080,Landscape,327d75b7-0b3e-4508-abaf-f0c7709b267a,Hobomock Arena
+028c4725-99d0-487a-a30f-160361246549,Foxboro Sports - Rink 3*,1920,1080,Landscape,c58c331d-2334-43fd-a1e2-52e4e3122c94,Foxboro Sports Center
+0e4989c8-24d6-4549-a1d0-a4c259795223,Red Nun 2 - VXMRN002,1920,1080,Landscape,3dd39f70-5cf9-4318-9f7b-260d07e477f0,Red Nun Bar & Grill
+191c0239-5270-44da-95ae-0f8b207e9e1a,KO Pizza - VXMKO001,1920,1080,Landscape,fcd404b1-8f4f-43d4-8fa7-dd6c067a3f81,Knockout Pizza
+1cf25147-f7fa-4565-8f1e-57eec9d77893,Rodman Schedule Left,1920,1080,Landscape,6c8f7c42-64d3-49b9-bcf0-229d8bf76aaf,Rodman Arena
+1e89dbfb-21ff-4cda-9e7b-2482d6cbd083,Rodman Schedule Right,1920,1080,Landscape,6c8f7c42-64d3-49b9-bcf0-229d8bf76aaf,Rodman Arena
+1ff9de09-0786-413c-1233-08ddc859463a,Henry Graf - Snack Bar Right,1920,1080,Landscape,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+42ba8d70-8619-438f-a5ff-35e56516e800,Frozen Ropes New2,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes Chester
+482497bb-e8bf-4aa9-9cb3-01034958ac24,Worcester Ice Center Right*,1920,1080,Landscape,02adde01-8fcb-4f2e-8104-dbed716090a5,Worcester Ice Center
+55e309a7-40a2-4665-1230-08ddc859463a,Henry Graf - Portrait Right,1080,1920,Portrait,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+5c02342c-024c-4eb7-99e7-5a62a7633597,Allied Veterans Snack Bar Right,1920,1080,Landscape,dfa73e5a-7de8-4735-ad71-9047e670176d,Allied Veterans Skating Rink
+6c88067f-5fc9-4fea-a900-130bcdf35e89,Lobby Schedule (Down),1920,1080,Landscape,c14d0698-f4db-4747-a848-99dc6f365a56,The Bog Ice Arena
+792cf499-2598-43e5-8468-6ed8b9a73846,Worcester Ice Center Left*,1920,1080,Landscape,02adde01-8fcb-4f2e-8104-dbed716090a5,Worcester Ice Center
+91c2350b-6807-42e5-1231-08ddc859463a,Henry Graf - Snack Bar Left,1920,1080,Landscape,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+96c5f59e-01a7-4e69-1235-08ddc859463a,Henry Graf - Main Lobby,1920,1080,Landscape,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+995b941d-aa46-439d-a2b8-fe237787767b,Foxboro Sports - Rink 1*,1920,1080,Landscape,c58c331d-2334-43fd-a1e2-52e4e3122c94,Foxboro Sports Center
+9b2fd48f-4c74-45a1-a55a-285b0eab0fa7,Sono Bar New,1920,1080,Landscape,c0cde7ac-6ed8-48f0-8d73-4e08fabb0ab5,Sono Ice House
+9b60c2cc-78d2-4c9d-85be-38f96add746d,Schedule,1080,1920,Portrait,24ba151e-7ccc-49b9-b824-f2ce82cf23b4,Rockland Ice Rink
+9bb6b09b-3e7a-4e04-b455-92f6831ca969,Frozen Ropes New1,1920,1080,Landscape,2c736740-e578-49db-8e90-7834634620e4,Frozen Ropes Chester
+a7eccc72-9dcc-485b-9394-ba8ed729de4a,Exeter - PowerPlay Cafe Middle,1920,1080,Landscape,1d20e920-e488-439e-8b9f-1d5b3b5c8692,The Rinks At Exeter
+aeb79b77-26a6-499f-862c-bf2c613c3c1a,Exeter - PowerPlay Cafe Left,1920,1080,Landscape,1d20e920-e488-439e-8b9f-1d5b3b5c8692,The Rinks At Exeter
+b3692a46-5bdf-4a3c-8ef6-0028593d299b,Lobby Schedule Up,1920,1080,Landscape,c14d0698-f4db-4747-a848-99dc6f365a56,The Bog Ice Arena
+b9f51a1d-c087-4e22-a565-27f68000afee,Fall River Rental,1080,1920,Portrait,8da827a2-61f6-4333-8adc-f12877c7e5d5,Driscoll Skating Arena
+c33224bd-0703-4ef5-873f-c82e93b01163,Cambridge Main,1920,1080,Landscape,59be4dc7-4847-4bad-a292-0b4b229bc98d,Simoni Skating Rink
+c7134a64-2f8c-42b5-8ff7-f9b99f65ba10,Red Nun 1 - VXMRN001,1920,1080,Landscape,3dd39f70-5cf9-4318-9f7b-260d07e477f0,Red Nun Bar & Grill
+caf88308-ccb9-4aa3-9d45-560da165b6b0,Foxboro Sports - Rink 2*,1920,1080,Landscape,c58c331d-2334-43fd-a1e2-52e4e3122c94,Foxboro Sports Center
+d18673d7-007a-4b97-1234-08ddc859463a,Henry Graf - Rental,1080,1920,Portrait,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
+f6d34a71-b131-4ef8-1232-08ddc859463a,Henry Graf - Portrait Left,1080,1920,Portrait,d3082c56-fd7a-412b-977f-c9a5ebac9679,Henry Graf Rink
